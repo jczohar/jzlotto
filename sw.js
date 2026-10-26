@@ -2,7 +2,7 @@
    Cache-first for app shell; network-first for CDN scripts.
    עדכן CACHE_VERSION בכל שינוי משמעותי בקבצים.
 */
-const CACHE_VERSION = "lotto-v20261026-02";
+const CACHE_VERSION = "lotto-v20261026-03";
 const SHELL = [
   "./",
   "./index.html",
